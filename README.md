@@ -191,3 +191,12 @@ Hey I am evaluting this code for my class project !
 **Purpose:** This forked version of the project is being evaluated for possible reuse or redevelopment as part of a course assignment.  
 **Status:** Code review in progress  
 **Notes:** README and project roadmap will be updated with observations and next steps.
+
+## Student Evaluation – Sprint 1
+
+**Name:** Chloe Daniel
+
+**Course:** Healthcare Informatics / IS Project  
+**Purpose:** This forked version of the project is being evaluated for possible reuse or redevelopment as part of a course assignment.  
+**Status:** Code review in progress  
+**Notes:** README and project roadmap will be updated with observations and next steps.
